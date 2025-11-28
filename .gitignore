@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+### --> MY SETUP STARTS HERE
+# --- Simulation data and raw test results ---
+*.tdms
+*.tdms_index
+*.csv
+*.xlsx
+*.dat
+/data/
+/resultados/
